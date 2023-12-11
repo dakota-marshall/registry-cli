@@ -1,4 +1,7 @@
 Forked from [Here](https://github.com/Sandelinos/registry-cli) as it contains a fix for newer docker registry versions, that as of writing has not been merged into the [source repo](https://github.com/andrey-pohilko/registry-cli)
+
+Setup Github Actions to deploy a container build to the Github Container Registry, see the [builds](https://github.com/dakota-marshall/registry-cli/pkgs/container/registry-cli)
+
 # registry-cli
 registry.py is a script for easy manipulation of docker-registry from command line (and from scripts)
 

@@ -1,5 +1,4 @@
-[![CircleCI](https://circleci.com/gh/andrey-pohilko/registry-cli/tree/master.svg?style=svg&circle-token=5216bf89763aec24bbcd6d15494ea32ffc53d66d)](https://circleci.com/gh/andrey-pohilko/registry-cli/tree/master)
-
+Forked from [Here](https://github.com/Sandelinos/registry-cli) as it contains a fix for newer docker registry versions, that as of writing has not been merged into the [source repo](https://github.com/andrey-pohilko/registry-cli)
 # registry-cli
 registry.py is a script for easy manipulation of docker-registry from command line (and from scripts)
 
